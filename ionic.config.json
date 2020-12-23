@@ -1,5 +1,7 @@
 {
   "name": "ROI Calculator",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

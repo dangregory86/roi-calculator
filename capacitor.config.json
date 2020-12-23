@@ -1,0 +1,13 @@
+{
+    "appId": "com.dan.roi_calculator",
+    "appName": "ROI Calculator",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "www",
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 0
+        }
+    },
+    "cordova": {}
+}
